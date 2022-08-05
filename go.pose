@@ -17,7 +17,12 @@
  (entry
   (id "wp")
   (uri "//en.wikipedia.org/wiki/Scheme_(programming_language)")
-  (intent "Scheme article on English Wikipedia")))
+  (intent "Scheme article on English Wikipedia"))
+
+ (entry
+  (id "awesome")
+  (uri "//github.com/schemedoc/awesome-scheme")
+  (intent "Awesome Scheme - most popular version")))
 
 (group
 
