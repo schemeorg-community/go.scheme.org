@@ -1,0 +1,166 @@
+;; Emacs: -*- Lisp -*-
+
+(group
+
+ (title "Scheme - general")
+
+ (entry
+  (id "irc")
+  (uri "//web.libera.chat/#scheme")
+  (intent "#scheme IRC channel - webchat"))
+
+ (entry
+  (id "log")
+  (uri "http://gmw.xen.prgmr.com/irc-logs/")
+  (intent "#scheme IRC channel - log"))
+
+ (entry
+  (id "wp")
+  (uri "//en.wikipedia.org/wiki/Scheme_(programming_language)")
+  (intent "Scheme article on English Wikipedia")))
+
+(group
+
+ (title "Scheme - standards")
+
+ (entry
+  (id "4")
+  (uri "//standards.scheme.org/official/r4rs.pdf")
+  (intent "R4RS document - most useful version"))
+
+ (entry
+  (id "5")
+  (uri "//standards.scheme.org/official/r5rs.pdf")
+  (intent "R5RS document - most useful version"))
+
+ (entry
+  (id "6")
+  (uri "//standards.scheme.org/unofficial/errata-corrected-r6rs.pdf")
+  (intent "R6RS document - most useful version"))
+
+ (entry
+  (id "6lib")
+  (uri "//standards.scheme.org/unofficial/errata-corrected-r6rs-lib.pdf")
+  (intent "R6RS Libaries document - most useful version"))
+
+ (entry
+  (id "6app")
+  (uri "//standards.scheme.org/unofficial/errata-corrected-r6rs-app.pdf")
+  (intent "R6RS Non-Normative Appendices document - most useful version"))
+
+ (entry
+  (id "6rationale")
+  (uri "//standards.scheme.org/unofficial/errata-corrected-r6rs-rationale.pdf")
+  (intent "R6RS Rationale document - most useful version"))
+
+ (entry
+  (id "7")
+  (uri "//standards.scheme.org/unofficial/errata-corrected-r7rs.pdf")
+  (intent "R7RS Small Edition document - most useful version")))
+
+(group
+
+ (title "Scheme - canon")
+
+ (entry
+  (id "origin")
+  (uri "//research.scheme.org/lambda-papers/")
+  (intent "The Original 'Lambda Papers' by Steele and Sussman"))
+
+ (entry
+  (id "sicp")
+  (uri "//mitpress.mit.edu/sites/default/files/sicp/index.html")
+  (intent "Structure and Interpretation of Computer Programs"))
+
+ (entry
+  (id "mta")
+  (uri "https://mirror.lisp.fi/hbaker/CheneyMTA.pdf")
+  (intent "Baker's 'Cheney on the MTA' paper")))
+
+(group
+
+ (title "Scheme - implementations")
+
+ (entry
+  (id "csug")
+  (uri "//www.scheme.com/csug7/")
+  (intent "Chez Scheme - User's Guide - latest version"))
+
+ (entry
+  (id "eggs")
+  (uri "http://wiki.call-cc.org/chicken-projects/egg-index-5.html")
+  (intent "Chicken - egg index - latest version"))
+
+ (entry
+  (id "mahlzeit")
+  (uri "//en.wikipedia.org/wiki/Mahlzeit")
+  (intent "Chicken - greeting explained")))
+
+(group
+
+ (title "Scheme - libraries and applications")
+
+ (entry
+  (id "akku")
+  (uri "//akkuscm.org/packages/")
+  (intent "Akku package listing"))
+
+ (entry
+  (id "snow")
+  (uri "//snow-fort.org/pkg")
+  (intent "Snow package listing"))
+
+ (entry
+  (id "spheres")
+  (uri "//github.com/alvatar/spheres")
+  (intent "Scheme Spheres library suite - most usable fork"))
+
+ (entry
+  (id "wak")
+  (uri "//gitlab.com/wak")
+  (intent "wak library suite - most usable fork")))
+
+(group
+
+ (title "Scheme - ongoing standardization")
+
+ (entry
+  (id "large")
+  (uri "//codeberg.org/scheme/r7rs/issues")
+  (intent "R7RS Large Edition 'where the action is'"))
+
+ (entry
+  (id "7work")
+  (uri "//github.com/johnwcowan/r7rs-work")
+  (intent "R7RS Large Edition 'r7rs-work' git repository")
+  (contacts "John Cowan"))
+
+ (entry
+  (id "walrus")
+  (uri "//github.com/johnwcowan/r7rs-work/blob/master/Walrus.md")
+  (intent "What we need to implement an R7RS runtime over R6RS"))
+
+ (entry
+  (id "twinjotypes")
+  (uri "https://docs.google.com/spreadsheets/d/1V-7E5d3fLON5DrVeHkVvp9h5SRgcteOgnPl8KvWTA3M/edit?usp=sharing")
+  (intent "ASN.1 Lisp Encoding Rules")
+  (contacts "John Cowan")))
+
+(group
+
+ (title "Neighboring languages")
+
+ (entry
+  (id "c99")
+  (uri "//www.dii.uchile.cl/~daespino/files/Iso_C_1999_definition.pdf")
+  (intent "ANSI/ISO C99 standard PDF document - closest version readable for free"))
+
+ (entry
+  (id "clhs")
+  (uri "//www.lispworks.com/documentation/HyperSpec/Front/index.htm")
+  (intent "Common Lisp HyperSpec - latest version"))
+
+ (entry
+  (id "islisp")
+  (uri "http://islisp.org/docs/islisp-v23.pdf")
+  (intent "ISLisp standard - latest version readable free of charge")))
