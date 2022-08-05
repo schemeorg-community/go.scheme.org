@@ -130,11 +130,6 @@
  (title "Scheme - ongoing standardization")
 
  (entry
-  (id "large")
-  (uri "//codeberg.org/scheme/r7rs/issues")
-  (intent "R7RS Large Edition 'where the action is'"))
-
- (entry
   (id "6repo")
   (uri "//github.com/schemedoc/r6rs")
   (intent "R6RS version control repository - most useful"))
@@ -143,6 +138,11 @@
   (id "7repo")
   (uri "//github.com/johnwcowan/r7rs-work")
   (intent "R7RS version control repository - most useful"))
+
+ (entry
+  (id "large")
+  (uri "//codeberg.org/scheme/r7rs/issues")
+  (intent "R7RS Large Edition - where the action is"))
 
  (entry
   (id "walrus")
