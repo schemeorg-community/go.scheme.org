@@ -178,3 +178,12 @@
   (id "islisp")
   (uri "http://islisp.org/docs/islisp-v23.pdf")
   (intent "ISLisp standard - latest version readable free of charge")))
+
+(group
+
+ (title "Other standards")
+
+ (entry
+  (id "posix")
+  (uri "//pubs.opengroup.org/onlinepubs/9699919799/idx/")
+  (intent "POSIX - alphabetic index, latest edition")))
