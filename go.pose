@@ -92,6 +92,11 @@
   (intent "Chez Scheme - User's Guide - latest version"))
 
  (entry
+  (id "7chicken")
+  (uri "//wiki.call-cc.org/r7rs-tasks")
+  (intent "Chicken - status of R7RS support"))
+
+ (entry
   (id "eggs")
   (uri "http://wiki.call-cc.org/chicken-projects/egg-index-5.html")
   (intent "Chicken - egg index - latest version"))
