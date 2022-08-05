@@ -118,7 +118,7 @@
     `(section
       (h2 ,(get-string group 'title))
       (table
-       (@ (class "files no-border"))
+       (@ (class "no-border"))
        ,@(filter-map (lambda (entry)
                        (and (head? entry 'entry)
                             (let* ((entry (dehead entry 'entry))
