@@ -2,7 +2,7 @@
 
 (group
 
- (title "Scheme - general")
+ (title "General")
 
  (entry
   (id "irc")
@@ -26,7 +26,7 @@
 
 (group
 
- (title "Scheme - standards")
+ (title "Standards")
 
  (entry
   (id "4")
@@ -65,7 +65,7 @@
 
 (group
 
- (title "Scheme - canon")
+ (title "Canon")
 
  (entry
   (id "origin")
@@ -84,7 +84,7 @@
 
 (group
 
- (title "Scheme - implementations")
+ (title "Implementations")
 
  (entry
   (id "csug")
@@ -103,7 +103,7 @@
 
 (group
 
- (title "Scheme - libraries and applications")
+ (title "Libraries and applications")
 
  (entry
   (id "akku")
@@ -127,7 +127,7 @@
 
 (group
 
- (title "Scheme - ongoing standardization")
+ (title "Ongoing standardization")
 
  (entry
   (id "6repo")
