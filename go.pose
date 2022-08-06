@@ -169,6 +169,11 @@
   (intent "R7RS Large Edition - where the action is"))
 
  (entry
+  (id "dockets")
+  (uri "//github.com/johnwcowan/r7rs-work/blob/master/WG2Dockets.md")
+  (intent "R7RS Large Edition - color and other dockets"))
+
+ (entry
   (id "walrus")
   (uri "//github.com/johnwcowan/r7rs-work/blob/master/Walrus.md")
   (intent "What we need to implement an R7RS runtime over R6RS"))
