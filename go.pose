@@ -94,7 +94,12 @@
  (entry
   (id "mta")
   (uri "https://mirror.lisp.fi/hbaker/CheneyMTA.pdf")
-  (intent "Baker's 'Cheney on the MTA' paper")))
+  (intent "Baker's 'Cheney on the MTA' paper"))
+
+ (entry
+  (id "tspl")
+  (uri "//www.scheme.com/tspl4/")
+  (intent "Book 'The Scheme Programming Language' - latest edition")))
 
 (group
 
