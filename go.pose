@@ -65,6 +65,20 @@
 
 (group
 
+ (title "Events")
+
+ (entry
+  (id "workshop")
+  (uri "//icfp22.sigplan.org/home/scheme-2022")
+  (intent "Scheme Workshop - nearest edition"))
+
+ (entry
+  (id "icfp")
+  (uri "//icfp22.sigplan.org/")
+  (intent "International Conference on Functional Programming - nearest edition")))
+
+(group
+
  (title "Canon")
 
  (entry
