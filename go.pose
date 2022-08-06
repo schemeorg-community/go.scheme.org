@@ -22,7 +22,12 @@
  (entry
   (id "awesome")
   (uri "//github.com/schemedoc/awesome-scheme")
-  (intent "Awesome Scheme - most popular version")))
+  (intent "Awesome Scheme - most popular version"))
+
+ (entry
+   (id "primer")
+   (uri "https://spritely.institute/static/papers/scheme-primer.html")
+   (intent "A Scheme Primer")))
 
 (group
 
