@@ -59,7 +59,7 @@
   (intent "R6RS Rationale document - most useful version"))
 
  (entry
-  (id "7")
+  (id "7small")
   (uri "//standards.scheme.org/unofficial/errata-corrected-r7rs.pdf")
   (intent "R7RS Small Edition document - most useful version")))
 
