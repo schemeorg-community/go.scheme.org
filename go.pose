@@ -25,9 +25,9 @@
   (intent "Awesome Scheme - most popular version"))
 
  (entry
-   (id "primer")
-   (uri "https://spritely.institute/static/papers/scheme-primer.html")
-   (intent "A Scheme Primer")))
+  (id "primer")
+  (uri "https://spritely.institute/static/papers/scheme-primer.html")
+  (intent "A Scheme Primer")))
 
 (group
 
