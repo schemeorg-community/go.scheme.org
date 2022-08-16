@@ -109,7 +109,12 @@
  (entry
   (id "tspl")
   (uri "//www.scheme.com/tspl4/")
-  (intent "Book 'The Scheme Programming Language' - latest edition")))
+  (intent "Book 'The Scheme Programming Language' - latest edition"))
+
+ (entry
+  (id "eccentric")
+  (uri "//hipster.home.xs4all.nl/lib/scheme/gauche/define-syntax-primer.txt")
+  (intent "JRM's Syntax-rules Primer for the Merely Eccentric")))
 
 (group
 
