@@ -114,7 +114,12 @@
  (entry
   (id "eccentric")
   (uri "//hipster.home.xs4all.nl/lib/scheme/gauche/define-syntax-primer.txt")
-  (intent "JRM's Syntax-rules Primer for the Merely Eccentric")))
+  (intent "JRM's Syntax-rules Primer for the Merely Eccentric"))
+
+ (entry
+  (id "sxml")
+  (uri "//okmij.org/ftp/Scheme/SXML.html")
+  (intent "SXML specification (XML as S-expressions)")))
 
 (group
 
