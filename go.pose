@@ -98,7 +98,7 @@
 
  (entry
   (id "sicp")
-  (uri "//mitpress.mit.edu/sites/default/files/sicp/index.html")
+  (uri "//mitpress.mit.edu/9780262510875/structure-and-interpretation-of-computer-programs/")
   (intent "Structure and Interpretation of Computer Programs"))
 
  (entry
