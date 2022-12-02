@@ -84,7 +84,7 @@
 
  (entry
   (id "icfp")
-  (uri "//icfp22.sigplan.org/")
+  (uri "//icfp23.sigplan.org/")
   (intent "International Conference on Functional Programming - nearest edition")))
 
 (group
