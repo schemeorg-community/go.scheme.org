@@ -202,7 +202,12 @@
   (id "twinjotypes")
   (uri "https://docs.google.com/spreadsheets/d/1V-7E5d3fLON5DrVeHkVvp9h5SRgcteOgnPl8KvWTA3M/edit?usp=sharing")
   (intent "ASN.1 Lisp Encoding Rules")
-  (contacts "John Cowan")))
+  (contacts "John Cowan"))
+
+ (entry
+  (id "xref")
+  (uri "//practical-scheme.net/wiliki/schemexref.cgi")
+  (intent "Scheme Cross Reference wiki at practical-scheme.net")))
 
 (group
 
