@@ -199,6 +199,11 @@
   (intent "What we need to implement an R7RS runtime over R6RS"))
 
  (entry
+  (id "srfi-discuss")
+  (uri "//srfi-email.schemers.org/srfi-discuss/")
+  (intent "Mailing list archive"))
+
+ (entry
   (id "twinjotypes")
   (uri "https://docs.google.com/spreadsheets/d/1V-7E5d3fLON5DrVeHkVvp9h5SRgcteOgnPl8KvWTA3M/edit?usp=sharing")
   (intent "ASN.1 Lisp Encoding Rules")
