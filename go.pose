@@ -79,7 +79,7 @@
 
  (entry
   (id "workshop")
-  (uri "//icfp22.sigplan.org/home/scheme-2022")
+  (uri "//icfp23.sigplan.org/home/scheme-2023")
   (intent "Scheme Workshop - nearest edition"))
 
  (entry
