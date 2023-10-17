@@ -22,7 +22,17 @@
  (entry
   (id "awesome")
   (uri "//github.com/schemedoc/awesome-scheme")
-  (intent "Awesome Scheme - most popular version")))
+  (intent "Awesome Scheme - most popular version"))
+
+ (entry
+  (id "rosetta")
+  (uri "//rosettacode.org/wiki/Category:Scheme")
+  (intent "Rosetta Code - Scheme category"))
+
+ (entry
+  (id "primer")
+  (uri "https://spritely.institute/static/papers/scheme-primer.html")
+  (intent "A Scheme Primer")))
 
 (group
 
@@ -65,6 +75,20 @@
 
 (group
 
+ (title "Events")
+
+ (entry
+  (id "workshop")
+  (uri "//icfp23.sigplan.org/home/scheme-2023")
+  (intent "Scheme Workshop - nearest edition"))
+
+ (entry
+  (id "icfp")
+  (uri "//icfp23.sigplan.org/")
+  (intent "International Conference on Functional Programming - nearest edition")))
+
+(group
+
  (title "Canon")
 
  (entry
@@ -74,13 +98,28 @@
 
  (entry
   (id "sicp")
-  (uri "//mitpress.mit.edu/sites/default/files/sicp/index.html")
+  (uri "//mitpress.mit.edu/9780262510875/structure-and-interpretation-of-computer-programs/")
   (intent "Structure and Interpretation of Computer Programs"))
 
  (entry
   (id "mta")
   (uri "https://mirror.lisp.fi/hbaker/CheneyMTA.pdf")
-  (intent "Baker's 'Cheney on the MTA' paper")))
+  (intent "Baker's 'Cheney on the MTA' paper"))
+
+ (entry
+  (id "tspl")
+  (uri "//www.scheme.com/tspl4/")
+  (intent "Book 'The Scheme Programming Language' - latest edition"))
+
+ (entry
+  (id "eccentric")
+  (uri "//hipster.home.xs4all.nl/lib/scheme/gauche/define-syntax-primer.txt")
+  (intent "JRM's Syntax-rules Primer for the Merely Eccentric"))
+
+ (entry
+  (id "sxml")
+  (uri "//okmij.org/ftp/Scheme/SXML.html")
+  (intent "SXML specification (XML as S-expressions)")))
 
 (group
 
@@ -150,15 +189,30 @@
   (intent "R7RS Large Edition - where the action is"))
 
  (entry
+  (id "dockets")
+  (uri "//github.com/johnwcowan/r7rs-work/blob/master/WG2Dockets.md")
+  (intent "R7RS Large Edition - color and other dockets"))
+
+ (entry
   (id "walrus")
   (uri "//github.com/johnwcowan/r7rs-work/blob/master/Walrus.md")
   (intent "What we need to implement an R7RS runtime over R6RS"))
 
  (entry
+  (id "srfi-discuss")
+  (uri "//srfi-email.schemers.org/srfi-discuss/")
+  (intent "Mailing list archive"))
+
+ (entry
   (id "twinjotypes")
   (uri "https://docs.google.com/spreadsheets/d/1V-7E5d3fLON5DrVeHkVvp9h5SRgcteOgnPl8KvWTA3M/edit?usp=sharing")
   (intent "ASN.1 Lisp Encoding Rules")
-  (contacts "John Cowan")))
+  (contacts "John Cowan"))
+
+ (entry
+  (id "xref")
+  (uri "//practical-scheme.net/wiliki/schemexref.cgi")
+  (intent "Scheme Cross Reference wiki at practical-scheme.net")))
 
 (group
 
@@ -177,7 +231,12 @@
  (entry
   (id "islisp")
   (uri "http://islisp.org/docs/islisp-v23.pdf")
-  (intent "ISLisp standard - latest version readable free of charge")))
+  (intent "ISLisp standard - latest version readable free of charge"))
+
+ (entry
+  (id "java")
+  (uri "//docs.oracle.com/en/java/javase/19/docs/api/java.base/module-summary.html")
+  (intent "Java SE foundational API - latest version")))
 
 (group
 
