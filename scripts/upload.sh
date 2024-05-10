@@ -7,6 +7,6 @@ mkdir -p www
 gosh scripts/generate.scm
 curl --location --fail --silent --show-error -o www/schemeorg.css \
     https://www.scheme.org/schemeorg.css
-rsync -vcr --delete nginx/ alpha.servers.scheme.org:/production/go/nginx/
-rsync -vcr --delete www/ alpha.servers.scheme.org:/production/go/www/
-ssh alpha.servers.scheme.org sudo service nginx restart
+rsync -vcr --delete nginx/ tuonela.scheme.org:/production/go/nginx/
+rsync -vcr --delete www/ tuonela.scheme.org:/production/go/www/
+ssh tuonela.scheme.org sudo service nginx restart
