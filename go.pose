@@ -204,9 +204,9 @@
   (intent "Mailing list archive"))
 
  (entry
-  (id "rrrs-archive")
+  (id "rrrs-authors")
   (uri "//groups.csail.mit.edu/mac/projects/scheme/rrrs-archive.html")
-  (intent "RRRS-Authors mailing list archive"))
+  (intent "Mailing list archive"))
 
  (entry
   (id "twinjotypes")
