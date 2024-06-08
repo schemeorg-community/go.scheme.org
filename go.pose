@@ -127,7 +127,7 @@
 
  (entry
   (id "csug")
-  (uri "//www.scheme.com/csug7/")
+  (uri "//cisco.github.io/ChezScheme/csug10.0/csug.html")
   (intent "Chez Scheme - User's Guide - latest version"))
 
  (entry
