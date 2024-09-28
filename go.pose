@@ -79,12 +79,12 @@
 
  (entry
   (id "workshop")
-  (uri "//icfp23.sigplan.org/home/scheme-2023")
+  (uri "//icfp24.sigplan.org/home/scheme-2024")
   (intent "Scheme Workshop - nearest edition"))
 
  (entry
   (id "icfp")
-  (uri "//icfp23.sigplan.org/")
+  (uri "//icfp24.sigplan.org/")
   (intent "International Conference on Functional Programming - nearest edition")))
 
 (group
