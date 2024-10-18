@@ -209,6 +209,11 @@
   (intent "Mailing list archive"))
 
  (entry
+  (id "wg2")
+  (uri "//groups.google.com/g/scheme-reports-wg2")
+  (intent "Mailing list archive"))
+
+ (entry
   (id "twinjotypes")
   (uri "https://docs.google.com/spreadsheets/d/1V-7E5d3fLON5DrVeHkVvp9h5SRgcteOgnPl8KvWTA3M/edit?usp=sharing")
   (intent "ASN.1 Lisp Encoding Rules")
