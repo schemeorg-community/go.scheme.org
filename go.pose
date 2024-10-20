@@ -10,9 +10,9 @@
   (intent "#scheme IRC channel - webchat"))
 
  (entry
-  (id "log")
+  (id "logs")
   (uri "http://gmw.xen.prgmr.com/irc-logs/")
-  (intent "#scheme IRC channel - log"))
+  (intent "#scheme IRC channel - logs"))
 
  (entry
   (id "wp")
